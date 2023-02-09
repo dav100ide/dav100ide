@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide Oreglio</h1>
-<h3 align="center">A Full Stack developer from Italy😎</h3>
+<h3 align="center">A <strong>Full Stack developer</strong> from Italy😎</h3>
 
 -  📫 Email **oreglio.dev@gmail.com**
 -  🌱 I want to learn **Tailwinds, React**
