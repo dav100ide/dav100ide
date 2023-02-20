@@ -2,7 +2,7 @@
 <h3 align="center">A <em>Full Stack developer</em> from Italy😎</h3>
 
 -  📫 Email **oreglio.dev@gmail.com**
--  🌱 I want to learn **Tailwinds, React**
+-  🌱 I want to learn **Tailwinds, React, Wordpress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
